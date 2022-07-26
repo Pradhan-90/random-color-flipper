@@ -43,9 +43,7 @@
 
 .nav-links li a{
     text-decoration: none;
-    font-family: roboto;
-    font-weight:700px;
-    color:green;
+    color:#179517;
     font-size:25px;
     padding: 0 45px
 }
